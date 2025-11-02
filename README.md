@@ -68,7 +68,8 @@ I am a first-year Master's student in **Science et Ingénierie des Données** at
 - Introduction to Jupyter – 365 Data Science  
 - Git & GitHub – 365 Data Science  
 - Data Analysis with Power BI & ChatGPT – 365 Data Science  
-- Introduction to Data Science – 365 Data Science  
+- Introduction to Data Science – 365 Data Science
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional – Oracle 
 
 ---
 
